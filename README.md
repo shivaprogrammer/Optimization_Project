@@ -54,7 +54,6 @@ Contains geometric features of raisin samples used to classify them into two var
 ## 📁 File Structure
 
 * `optimization_project.py`: Full implementation of the project
-* `Raisin_Dataset.csv`: Dataset file (to be added)
 * `README.md`: Project documentation
 
 ## 🚀 How to Run
