@@ -1,6 +1,4 @@
-Here is a complete `README.md` file for your project **"Optimization of Logistic Regression using Gradient Descent and Newton's Method"**:
 
----
 
 # Optimization of Logistic Regression
 
